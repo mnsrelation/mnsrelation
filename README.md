@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there 1 👋
+### Hi there 2👋
+### Hi there 3👋
 
+#### I'm Chif, a software engineer
+
+- 📫 How to reach me: 
+  - X: [@dchif](https://x.com/dchif)
+  - Website: https://danielchif.dev
+- 😄 Pronouns: He/Him
+
+- 
 <!--
 **mnsrelation/mnsrelation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
